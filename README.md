@@ -1,1 +1,2 @@
-https://vibrant-ritchie-4fcbf3.netlify.app/
+https://randomquotes1999.netlify.app/
+
